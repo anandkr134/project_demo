@@ -1,4 +1,4 @@
 # project_demo
 This is my first Git Repository.
 <br>
-Author - Anand kumar
+Author - Anand (first project)
